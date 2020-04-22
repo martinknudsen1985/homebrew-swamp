@@ -1,8 +1,8 @@
 class Swamp < Formula
   desc "AWS Profile Manager. You can use swamp to switch profiles with ease"
   homepage "https://github.com/felixb/swamp"
-  url "https://github.com/felixb/swamp/archive/v0.10.0.tar.gz"
-  sha256 "4cdcdd3e7b9085de5c0f53a9783e3392680727372d89f0e38270ab8da889b1d8"
+  url "https://github.com/felixb/swamp/archive/v0.11.0.tar.gz"
+  sha256 "58c517f21160e19015d98a758a94bf8ebfc390cf1b3532c360cc890378ad5163"
 
   depends_on "go" => :build
 
