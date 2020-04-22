@@ -1,8 +1,3 @@
 # homebrew-swamp
 
-Swamp for homebrew
-
-```
-brew tap mknudsen/swamp
-brew install swamp
-```
+This is deprecated, go to https://github.com/splieth/homebrew-swamp
